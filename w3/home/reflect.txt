@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : temps.c
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section		 : SJJ
+ Date        : January 26, 2019
+ Title		 : Workshop 3 - Home - Reflection
+ ============================================================================
+*/
+
+/*
+ ============================================================================
+ Description : Reflection for at home portion of the week 3 workshop
+ ============================================================================
+*/
+
+In this weeks workshop we learned how to do several things, including looping, if statements, nesting logic inside other logic structures, and error checking.  I have experience programming so logic structures in programming are not new to me.  I am new to C programming however, and in this workshop, I learned the proper syntax for 'for' loops, 'while'/'do while' loops and 'if' statements.  This is our first attempt at coding an interactive program that error checks the results the user enters, and if they are not within the valid range specified, they are asked to re-enter those values.
+
+I did not need to prepare any sort of pseudo-code or flowchart for this exercise.  I find flowcharts confusing and not needed for such a simple program.  When coding a solution like this I find it a waste of time to draw out a plan, I just figure it out in my mind and can see how the program will need to work.  I have a natural ability to visualize the code in my head before I even start writing the program.  As I said before programming is not new to me, and I have a very strong ability to trace the execution of the code and the values/variables that are being manipulated.  Therefore, in such a basic program I felt it was not necessary to do any pseudo-coding.
+
+In this workshop I used a 'for' loop to cycle through the number of days to calculate i.e. 'NUMS', and a 'while' loop to error check the values entered by the user.  I used the 'while' loop as opposed to the 'do while' loop because I don't want the loop to execute if the user enters valid data, and a 'do while' loop will always execute at least once.  I also used a couple if statements to check if the entered values were the highest or lowest temperatures entered so far, or if it was the first day entered then assigned those temperature values into the highest/lowest temperature variables and assigned that day number i.e. (i+1) into the highestDay and lowestDay variables.
+
+I found this workshop very interesting because I love coding solutions to problems, and this was our most complex program to date. I am not sure how or why I find learning programming languages so easy, I guess it is just the way that my mind works.  I think very logically about everything in life and when it comes to programming solutions to problems, it comes very naturally to me.  I look forward to more challenging workshops in the weeks to come.

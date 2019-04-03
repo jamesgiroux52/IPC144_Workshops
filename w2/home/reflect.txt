@@ -1,0 +1,19 @@
+=====================================================================
+ Name		: cashRegister.c
+ Author       	: James Giroux - jgiroux1@myseneca.ca
+ Student #  	: 129198164 - IPC144J
+ Date          	: January 18, 2019 - Workshop 2 - Home
+======================================================================
+ 
+======================================================================
+ Description 	: Reflection on cashRegister.c home portion using integer
+               	  division and modulus calculations
+======================================================================
+
+This weeks at-home portion of the workshop asks us to upgrade our program to display the change required in dimes, nickels, and pennies, in addition to the loonies and quarters. I learned several things while completing this portion of the lab.
+
+Firstly I learned how to use casting in order to change the format or output of a specific type of variable.  For example I learned implicit casting by assigning a float value into an integer variable in order to find the amount of loonies required.  I also learned how to use explicit casting in order to display a whole number in decimal format.  I did this when displaying the balance owing within the printf() function.  In addition to this I learned how to properly format output within the printf() function using the powerful formatting options.  I found the at home portion of this exercise a little challenging at first when trying to figure out casting and when to use implicit vs explicit casting.  I also found that the project is flawed because this program will not work for any value that is entered, some numbers will have an incorrect balance owing after the tax calculation and the loonies are subtracted, this is caused by the .005 added to the tax owing.  Other that that I found this workshop fairly easy and was finished before the lab class on Friday January 25th.
+
+It is a good idea to use integer values when doing calculations as opposed to floating point numbers because your calculations are more clear in the sense that they are whole numbers and you will not run into any rounding error with your values. The modulus operator is also more clear in the sense that it will only give you the remainder as a whole number as opposed to a rounded floating point value.  Another advantage is that integer calculations are much faster and take up less memory than floating-point calculations.  In this program the difference is trivial but in a program that is several hundred or even thousands of lines long, the difference may become noticeable. 
+
+I am really enjoying this class and the skills I am learning in the process.  C has many more low level features compared to the other languages I have experience with and I am excited to learn more complex and challenging aspects of C programming.

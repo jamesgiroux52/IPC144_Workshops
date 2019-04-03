@@ -1,0 +1,10 @@
+/*
+ ============================================================================
+ Course          : IPC144J
+ Author          : James Giroux - jgiroux1@myseneca.ca
+ Student Number  : 129198164
+ Description     : Week 1 Reflection
+ ============================================================================
+ */
+
+There are several things that I learned during this workshop.  I learned the proper way to open and edit projects and source code in two different IDE's including Microsoft Visual Studio and Eclipse for macOS. I also re-enforced my ability to use ssh commands in terminal for macOS and Putty for Windows in order to connect to my matrix account and upload the source code. Lastly I learned the proper syntax for C programming and how to debug and run a basic program in an IDE and also in terminal using the gcc compiler. I look forward to learning more complex topics such as logic constructs and arrays.

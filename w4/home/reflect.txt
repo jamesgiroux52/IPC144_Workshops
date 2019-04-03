@@ -1,0 +1,16 @@
+
+ ============================================================================
+ Name        : temps2.c
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section	 : SJJ
+ Date        : January 27, 2019 - Workshop 4 - home - Reflection
+ ============================================================================
+
+In this workshop we learned how to work with arrays.  Arrays are an essential part of programming and their importance cannot be understated.  In this program we used parallel arrays one for the high temperatures and one for the low temperatures.
+
+Parallel arrays are very convenient because you can reference them simultaneously during your for loops counter.  For example, on each iteration of the for loop I can get the high and low temperatures for a specific day (i.e. the for-loop counter i).  Each time i is incremented I am accessing a new day.  The only other way that I can see to do this without arrays would be to have a separate variable for every days hi and low temperatures.  This method would not only take up much more memory, it is also very inefficient and would need several unneeded lines of code.
+
+I am familiar with using iteration constructs for population and manipulation array elements and now have the skills to do this in the C programming language.  I have worked ahead to the workshop on Structures and for this program I think a structure would have been even more efficient than parallel arrays, but I digress.
+
+Looking forward to learning the proper implementation of functions in the coming weeks and am really enjoying learning C.

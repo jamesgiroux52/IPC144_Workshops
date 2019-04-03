@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : emp_inlab.c
+ Author      : James Giroux - jgiroux1@myseneca.ca
+ Student #   : 129198164
+ Section	     : SJJ
+ Date        : February 3, 2019 - Workshop 5 - Reflection
+ ============================================================================
+*/
+
+/*
+ ============================================================================
+ Description : Reflection of workshop 5 at home.
+ ============================================================================
+*/
+
+In this workshop we implemented Structures, which are a very useful tool when you have a lot of data to store and manipulate.  As opposed to last week using only arrays to hold temperature values this weeks workshop is an employee management tool, although a quite limited one. Structures where the best tool for the job because we have several employees, and every employee had several pieces of data we want to store for them (ie ID#, age, salary), therefore an array of employee structures is the most efficient type to work this problem.  P.S. I'm sure many of my classmates appreciated the template .c file with the Case construct already in place :)
+
+I can't say that I really learned anything new in this workshop that I didn't already know, but I like the Struct construct and that was a new concept to me. As opposed to using a permanent counter of how many valid entries I had in the array, I instead implemented a flag into my program for when I was searching through the Array, once I found the item I was looking for the flag was changed to the location in the array I wanted to change/remove, and the led my next decisions in the code.  I found this a very effective way to manipulate the flow of my program, while keeping the logic intact, and without adding an extra variable for total entrees.  I feel the way that I wrote it is better able to be scaled up to a much larger database.
+
+Not much more I can say about this project except I wish we were already at the point of using files and databases for a workshop like this.. lol I guess I have a little while to wait for that.
+
+Looking forward to the release of the Assignment(s) after mid-terms and the break. 
+
+James
